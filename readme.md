@@ -53,11 +53,15 @@ You will only need to modify the public/index.html file for this assignment. All
 
 Don't forget to run
 
-# npm install
+```
+npm install
+```
 
 for this project first, then to run the app, run
 
-# npm run dev
+```
+npm run dev
+```
 
 on terminal
 
